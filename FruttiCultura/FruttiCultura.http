@@ -1,0 +1,6 @@
+@FruttiCultura_HostAddress = http://localhost:5189
+
+GET {{FruttiCultura_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
